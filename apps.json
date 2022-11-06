@@ -21,4 +21,18 @@
             "size": 64000000
         }
     ]
+      {
+            "name": "TikTok++DL": "nk.store",
+            "developerName": "Inject Tweak:nk",
+            "version": "26.7.1",
+            "versionDate": "2022-09-17T11:36:00+08:00",
+            "versionDescription": "Auto next video",
+            "downloadURL": "https://archive.org/download/tik-tok_202211/TikTok.ipa",
+            "localizedDescription": "tiktok+",
+            "iconURL": "https://archive.org/download/0-c-4246-d-7-2-db-6-4-df-1-ac-70-75-cb-5-eb-724-bf/0C4246D7-2DB6-4DF1-AC70-75CB5EB724BF.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 1,
+            "size": 133000000
+        }
+    ]
 }
