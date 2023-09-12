@@ -1,47 +1,47 @@
 {
-  "name": "Quantum Source++",
-  "identifier": "com.quarksources.quantumsource++",
-  "apiVersion": "v2",
-  "subtitle": "Contains tweaked apps, free streaming, cracked apps, and more.",
-  "description": "This source is an automatically kept up-to-date source, powered by GitHub Actions, the Python altparse library, and the support of independent developers. In here, you'll find anything from streaming services without ads, to custom themed App Store apps. If you have an app you'd like to see here, please use our website to reach out!",
-  "iconURL": "https://quarksources.github.io/assets/ElementQ-Circled.png",
-  "headerURL": "https://quarksources.github.io/assets/quantumsource++.png",
-  "website": "https://quarksources.github.io/",
-  "tintColor": "#343a40",
-  "featuredApps": [
-    "com.spotify.client",
-    "com.streamer.ios",
-    "com.google.ios.youtube",
-    "com.marcuszhou.NineAnimator",
-    "com.hammerandchisel.discord"
-  ],
+	"name": "nkodder",
+	"identifier": "com.nkodder.altstore",
   "apps": [
     {
-      "name": "Emnity",
-      "bundleIdentifier": "com.hammerandchisel.discord",
-      "developerName": "Emnity Team",
-      "subtitle": "The power of addons, all in your hand.",
-      "localizedDescription": "Add plugins and themes to Discord!",
-      "iconURL": "https://files.enmity.app/icon-altstore.png",
-      "tintColor": "#6D00FF",
-      "screenshotURLs": [
-        "https://i.imgur.com/Xg65i1U.png",
-        "https://i.imgur.com/97x9gcA.png"
-      ],
-      "versions": [
-        {
-          "absoluteVersion": "2.2.6",
-          "version": "177.1",
-          "date": "2023-05-13T14:40:38Z",
-          "localizedDescription": "# Enmity v2.2.6\n\n",
-          "downloadURL": "https://github.com/enmity-mod/tweak/releases/download/v2.2.6/Enmity.ipa",
-          "size": 94911970,
-          "sha256": "c22949b6a99acfd32080b27e268d52173ad8917dc5020c7f1f982c4a428ed994"
-        
-        
-
-
-    }
+			"name": "War robots",
+			"bundleIdentifier": "com.nkodder.wwr9",
+			"developerName": "nkodder Team",
+			"subtitle": "+6",
+      "version": "9.3.2",
+      "versionDate": "2023-09-05",
+			"versionDescription": "https://t.me/+9tce62Yp-0QyMThl",
+			"downloadURL": "https://archive.org/download/war-robots-m-1-9.3.2/War%20RobotsM1_9.3.2.ipa",
+			"size": 435525301,
+			"minOSVersion": "14.0",
+			"localizedDescription": " Hack Features:/n- Speed +/n- Anti lock move/n- rapid fire taran and other/n- Gun not broken/n- Focus Speed/n- Anti lock ability.",
+			"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
+			"tintColor": "ff8000",
+			"permissions": [
+				{
+					"type": "network",
+					"usageDescription": "Used to discover network shares and Google Cast devices in your local network"
+				},
+				{
+					"type": "bluetooth",
+					"usageDescription": "Used to discover Google Cast devices in your local network"
+				}
+			],
+			"screenshotURLs": [
+				"https://youtu.be/HoPoAaesXds?feature=shared",
+				
+			]
+		}
   ],
-  "userinfo": {}
+"news": [
+  {
+    "title": "nkodder Now Available!",
+    "identifier": "nkodder-available-altstore",
+    "caption": "Introducing Suffuse's official AltStore Repo",
+    "date": "2023-01-04",
+    "tintColor": "ff8000",
+    "imageURL": "https://iosgods.com/uploads/monthly_2023_04/IMG_0.thumb.PNG.eee5d90c9ac48069822d2686aa639617.PNG",
+    "appID": "com.nkodder.wwr9",
+    "notify": true
+  }
+]
 }
