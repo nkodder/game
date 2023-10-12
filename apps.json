@@ -3,18 +3,18 @@
 	"identifier": "com.nkodder.altstore",
   "apps": [
     {
-			"name": "War robots",
-			"bundleIdentifier": "com.nkodder.wwr9",
+			"name": "world",
+			"bundleIdentifier": "com.tocaboca.tocalifeworld1",
 			"developerName": "nkodder Team",
 			"subtitle": "+6",
-      "version": "9.3.2",
+      "version": "1.74",
       "versionDate": "2023-09-05",
 			"versionDescription": "https://t.me/+9tce62Yp-0QyMThl",
-			"downloadURL": "https://archive.org/download/war-robots-m-1-9.3.2/War%20RobotsM1_9.3.2.ipa",
+			"downloadURL": "https://archive.org/download/toca-world-1.74/Toca%20World%2B%2B_1.74.ipa",
 			"size": 435525301,
 			"minOSVersion": "14.0",
-			"localizedDescription": " Hack Features:/n- Speed +/n- Anti lock move/n- rapid fire taran and other/n- Gun not broken/n- Focus Speed/n- Anti lock ability.",
-			"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1yO-pgYosj-2Cxc9w7kQcH--Cy1BXCY_8Iw&usqp=CAU",
+			"localizedDescription": " Hack Features:unlock mapp",
+			"iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE7eZ-A5p9JH5xC9lUJ2rMDIm2HieZXQ_JOA&usqp=CAU",
 			"tintColor": "ff8000",
 			"permissions": [
 				{
